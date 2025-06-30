@@ -1,0 +1,37 @@
+Introduction générale
+Lila Chibane est une Data Scientist et Ingénieure IA spécialisée en NLP, RAG et LLM. Née le 3 décembre 1999 à Kouba (Algérie), elle possède plus de 5 ans d’expérience en IA, avec des projets variés allant de l’automobile à la recherche académique. Elle est diplômée d’un double master en Intelligence Artificielle (USTHB) et Machine Learning for Data Science (Université Paris Cité).
+
+Projet EdTech (2024)
+Dans une startup EdTech, Lila a mis en place un système RAG pour générer automatiquement des QCM à partir de documents pédagogiques.
+Elle a utilisé LangChain pour l’orchestration, LlamaIndex pour la structuration des connaissances, et Chroma pour la base vectorielle.
+Elle a intégré des embeddings E5/BGE, un chunking récursif, MMR pour la diversité et des évaluations avec RAGAS et TruLens.
+Les LLMs utilisés incluent GPT-4 et Claude.
+
+Projet Renault Ampère (2023-2024)
+Chez Renault Group (Ampère), elle a conçu un système RAG pour améliorer l’accès à la documentation technique.
+Elle a utilisé LangChain, FAISS, Elasticsearch pour la recherche hybride, et des embeddings spécialisés en vocabulaire automobile.
+Un reranking avec Cross-encoders a été ajouté, et un chatbot a été déployé avec FastAPI, Docker et Kubernetes.
+
+Centre Borelli (2022-2023)
+Lila a participé à un projet de détection de textes générés par IA.
+Elle a testé différents modèles d’embedding (Word2Vec, BERT, USE), appliqué des réductions de dimension (PCA, UMAP) et utilisé RoBERTa pour la classification.
+Un service API REST scalable a été déployé sur Kubernetes.
+
+Projet CERIST (2021-2022)
+Elle a travaillé sur la segmentation d’IRM cérébrales avec une architecture U-Net intégrant des mécanismes d’attention.
+Des GANs ont été utilisés pour augmenter les données rares, et une interface de visualisation 3D a été créée.
+L’ensemble a été déployé via FastAPI, Docker, Kubernetes.
+
+Projet Ooredoo (2019-2020)
+Chez Ooredoo, elle a développé un système de classification des sentiments clients à partir de données multicanales.
+Elle a exploité BERT et RoBERTa, avec un prétraitement via SpaCy et NLTK, puis développé des dashboards interactifs pour le suivi de la satisfaction client.
+
+Formations et Certifications
+Lila est diplômée de deux masters : IA (USTHB) et ML for Data Science (Université Paris Cité).
+Elle détient également plusieurs certifications DeepLearning.AI :
+- Generative AI with LLMs (2024)
+- Deep Learning Specialization (2022)
+- Machine Learning Specialization (2021)
+
+Langues parlées 
+Français et Anglais (bilingue).

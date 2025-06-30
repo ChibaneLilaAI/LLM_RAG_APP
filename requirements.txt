@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+openai>=1.0.0
+python-dotenv
+jinja2
+faiss-cpu
+sentence-transformers
+langchain
+jinja2
